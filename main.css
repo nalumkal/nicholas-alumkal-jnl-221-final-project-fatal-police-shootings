@@ -1,0 +1,90 @@
+/*Your CSS goes here.*/
+body {
+  background-color: white;
+  max-width: 850px;
+  margin: 0 auto; /* Centers the content horizontally */
+  padding: 5px;
+  font-family: Arial, sans-serif;
+  align-items: center; 
+}
+
+.story-top {
+  background-color: white;
+  padding: 5px;
+  margin: 20px 0;
+}
+
+.story {
+  background-color: white;
+  padding: 5px; 
+  margin: 20px 0;
+  max-width: 850px;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+	width: 100%;
+	background-color: white;
+}
+
+.first-graphic {
+	background-color:white;
+	max-width: 850px;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+.second-graphic {
+  background-color: white;
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.third-graphc {
+  background-color: white;
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.fourth-graphic {
+  background-color: white;
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.fifth-graphic {
+  background-color: white;
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+a:link {
+  color: blue;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
+
+
